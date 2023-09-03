@@ -1,6 +1,6 @@
 ## TrackPatrol 🛡️
 
-TrackPatrol is our solution to the problem statement given by the Indian Police Department to track police personnel deployed on Bandobast Duties.
+TrackPatrol is our solution to the problem statement given by the Bureau of Police Research & Development (BPR&D)|Ministry of Education (MoE) to track police personnel deployed on Bandobast Duties.
 It has a Dashboard for assigning, managing, monitoring Bandobast duties, and generating reports.
 It has an App for tracking real-time location and giving notifications. 
 Trackpatrol enables the registration, management, and attachment of various hardware such as UHF RFID and biometric scanners to further increase police personnel monitoring. 
